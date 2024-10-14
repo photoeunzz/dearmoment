@@ -1472,7 +1472,7 @@ margin-top: 80px;
 }
 
 /* tablet 사이즈  max 1100*/
-@media(max-width:1100px){
+@media(max-width:1400px){
 
     #dear_class_text>ul{
         flex-wrap: wrap;
