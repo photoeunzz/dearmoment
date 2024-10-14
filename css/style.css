@@ -462,6 +462,11 @@ transform: translateY(-5px) rotate(-135deg);
     text-align: center;
 }
 
+.slide>ul>li>a{
+    display: block;
+}
+
+
 /*필요스타일끝*/
 
 #header{
