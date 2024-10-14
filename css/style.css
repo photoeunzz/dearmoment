@@ -514,6 +514,7 @@ transform: translateY(-5px) rotate(-135deg);
 
 .ham_top>li{
     width:33.3%;
+    padding-top:5px;
 }
 
 .ham_top>li:nth-child(2){
